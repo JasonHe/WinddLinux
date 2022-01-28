@@ -1,7 +1,9 @@
 # WinddLinux
 一个一键反向DD的批处理文件，可以将Windows系统的VPS反向DD成Linux
 
-下载Linux.bat到VPS的任意路径，双击执行即可。
+下载Linux.bat https://raw.githubusercontent.com/JasonHe/WinddLinux/main/linux.bat
+
+到VPS的任意路径，双击执行即可。
 
 15分钟后SSH即可登陆VPS，默认密码：
 
